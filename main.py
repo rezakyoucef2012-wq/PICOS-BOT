@@ -1132,7 +1132,7 @@ class FF_CLIENT(threading.Thread):
 
 
 
-[b][c][00FFFF]╏Dev by: @AlliFF_BOT
+[b][c][00FFFF]╏Dev by: @Picos0
 
 
 [33FFF3][c][b]-----------------------------------""",uid
